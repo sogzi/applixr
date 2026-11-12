@@ -1,7 +1,8 @@
 # Applixr
 
 Landing page for [Applixr](https://applixr.com), the software development company behind
-[Naija Games](https://naijagames.applixr.com) and [Gbas Gbos](https://gbas-gbos.applixr.com).
+[Naija Games](https://naijagames.applixr.com), [Gbas Gbos](https://gbas-gbos.applixr.com)
+and [Prepfluent](https://prepfluent.applixr.com).
 
 It is a static site with no build step: `index.html`, `styles.css` and `assets/`.
 
